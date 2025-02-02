@@ -35,14 +35,17 @@ body {
 .task-row-wrapper {
   display: flex;
 }
-#incomplete-tasks, #completed-tasks {
+#incomplete-tasks,
+#completed-tasks {
   margin:0;
   padding: 0px;
 }
-li, .app__header {
+li,
+.app__header {
   list-style:none;
 }
-input,button{
+input,
+button{
   outline:none;
 }
 button {
