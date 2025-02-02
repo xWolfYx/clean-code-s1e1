@@ -18,7 +18,8 @@ body {
 }
 
 @media (max-width:768px) {
-  .main-image { text-align: center;
+    .main-image {
+      text-align: center;
   }
 }
 .app {
